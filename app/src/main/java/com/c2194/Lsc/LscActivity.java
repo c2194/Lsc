@@ -25,6 +25,8 @@ import android.view.WindowManager;
 import android.widget.ImageView;
 import android.widget.TextView;
 
+import pl.droidsonroids.gif.GifImageView;
+
 public class LscActivity extends AppCompatActivity {
 
 
@@ -39,7 +41,7 @@ public class LscActivity extends AppCompatActivity {
     //数据
     LLcou llcou;
     Edraw1 edraw1;
-
+    GifImageView gifImageView;
 
 
 
